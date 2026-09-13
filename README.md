@@ -88,5 +88,7 @@ Users can challenge existing insights. The contract dynamically constructs a new
 3. Paste the contents of `NeuralPulseOracle.py`.
 4. Deploy the contract and start interacting with the AI-driven endpoints.
 
+[![Run Tests](https://github.com/dorinalunar/-neural-pulse-oracle-gl/actions/workflows/tests.yml/badge.svg)](https://github.com/dorinalunar/-neural-pulse-oracle-gl/actions)
+
 ## 📄 License
 This project is licensed under the MIT License.
